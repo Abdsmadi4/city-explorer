@@ -23,12 +23,12 @@
 
 ## Time Estimates
 
-Name of feature: ________________________________
+Name of feature: add .env and form
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 3 hours
 
-Start time: _____
+Start time: 7.30 pm
 
-Finish time: _____
+Finish time: 11.30 pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 4 hors
