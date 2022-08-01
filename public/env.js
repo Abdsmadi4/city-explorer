@@ -70,7 +70,7 @@ window.env = {
   "npm_config_save_bundle": "",
   "npm_config_shell": "/bin/bash",
   "NAME": "DESKTOP-S00D4O3",
-  "WSL_INTEROP": "/run/WSL/469_interop",
+  "WSL_INTEROP": "/run/WSL/16000_interop",
   "_": "/usr/local/bin/npm",
   "npm_package_private": "true",
   "npm_config_dry_run": "",
@@ -97,7 +97,7 @@ window.env = {
   "npm_config_local_address": "",
   "npm_config_viewer": "man",
   "npm_config_node_gyp": "/usr/local/lib/node_modules/npm/node_modules/node-gyp/bin/node-gyp.js",
-  "PATH": "/usr/local/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/home/smadi_/projects/courses/city-explorer/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files/WindowsApps/CanonicalGroupLimited.UbuntuonWindows_2004.2022.1.0_x64__79rhkp1fndgsc:/mnt/c/Python310/Scripts/:/mnt/c/Python310/:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/nodejs/:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Users/abdsm/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/abdsm/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/abdsm/AppData/Roaming/npm:/snap/bin",
+  "PATH": "/usr/local/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/home/smadi_/projects/courses/city-explorer/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Python310/Scripts/:/mnt/c/Python310/:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/nodejs/:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Users/abdsm/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/abdsm/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/abdsm/AppData/Roaming/npm:/snap/bin",
   "npm_package_name": "city-explorer",
   "npm_package_browserslist_development_1": "last 1 firefox version",
   "npm_config_audit_level": "low",
@@ -112,10 +112,11 @@ window.env = {
   "npm_config_offline": "",
   "npm_config_sso_poll_frequency": "500",
   "LANG": "C.UTF-8",
+  "npm_package_dependencies_config": "^3.3.7",
   "npm_package_dependencies_react_dom": "^18.2.0",
   "npm_config_umask": "0022",
   "npm_package_eslintConfig_extends_0": "react-app",
-  "npm_package_gitHead": "9e32aebf2aa08177b0a671b26f70baf458bca904",
+  "npm_package_gitHead": "140927b8bda0f90b95141d496825323962d95aa0",
   "npm_config_fund": "true",
   "npm_config_fetch_retry_maxtimeout": "60000",
   "npm_config_loglevel": "notice",
@@ -186,5 +187,6 @@ window.env = {
   "npm_package_dependencies_react": "^18.2.0",
   "npm_config_json": "",
   "INIT_CWD": "/home/smadi_/projects/courses/city-explorer",
-  "REACT_APP_API": "pk.ed6b1b9fb28201ac1bc1db335568bdfe"
+  "REACT_APP_TITLE": "City Explore",
+  "REACT_APP_KEY": "pk.ed6b1b9fb28201ac1bc1db335568bdfe"
 };

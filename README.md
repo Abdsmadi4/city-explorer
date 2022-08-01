@@ -19,7 +19,14 @@
 
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
+Ahmed Awamleh
 
+
+## Netlify
+https://kaleidoscopic-heliotrope-43c615.netlify.app/
+
+
+![wrrc](src/assets/wrrc.png)
 
 ## Time Estimates
 
@@ -31,4 +38,16 @@ Start time: 7.30 pm
 
 Finish time: 11.30 pm
 
-Actual time needed to complete: 4 hors
+Actual time needed to complete: 4 hours
+
+## editing Time Estimates
+
+Name of feature: .env , form , components
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 5:30 pm
+
+Finish time: 9:45 pm
+
+Actual time needed to complete: 4 hours
