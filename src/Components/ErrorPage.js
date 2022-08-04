@@ -7,7 +7,7 @@ export class ErrorPage extends Component {
     return (
       
       <Alert variant="danger" onClose={this.props.handleClose}>
-        <Alert.Heading>Oh snap! You got an error!</Alert.Heading>
+        <Alert.Heading>Unable to geocode</Alert.Heading>
         <p>
           {this.props.errorMessage}
         </p>
