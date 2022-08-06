@@ -5,7 +5,7 @@ export class ErrorPage extends Component {
 
   render() {
     return (
-      
+
       <Alert variant="danger" onClose={this.props.handleClose}>
         <Alert.Heading>Unable to geocode</Alert.Heading>
         <p>

@@ -1,7 +1,7 @@
 import { Component } from 'react'
 import { Accordion } from 'react-bootstrap';
-
-export class Weather extends Component {
+import WeatherDay from './WeatherDay';
+ class Weather extends Component {
   render() {
     return (
     <Accordion defaultActiveKey="0">
@@ -9,7 +9,7 @@ export class Weather extends Component {
           <Accordion.Header>
             Press for Details about weather 
           </Accordion.Header>
-          {this.props.weatherInfo.map(value => <Accordion.Body>{ value.description } : {value.date}</Accordion.Body>)}
+          {this.props.weatherInfo.map(value => <WeatherDay dayData={value}/>)}
           
       </Accordion.Item>
     </Accordion>
