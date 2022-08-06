@@ -64,7 +64,7 @@ class App extends Component {
   }
 
   displayWeather = async (searchQuery, lat, lon) => {
-    const url = `http://localhost:8080/weather?searchQuery=${searchQuery}&lat=${lat}&lon=${lon}`;
+    const url = `https://city-explor-api-github.herokuapp.com/weather?searchQuery=${searchQuery}&lat=${lat}&lon=${lon}`;
     try {
       const weatherData = await axios.get(url);
       this.setState({
@@ -84,7 +84,7 @@ class App extends Component {
   }
 
   displayMovies = async (searchQuery) => {
-    const url = `http://localhost:8080/movies?searchQuery=${searchQuery}`;
+    const url = `https://city-explor-api-github.herokuapp.com/movies?searchQuery=${searchQuery}`;
 
     const movieData = await axios.get(url);
 
