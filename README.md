@@ -51,3 +51,15 @@ Start time: 5:30 pm
 Finish time: 9:45 pm
 
 Actual time needed to complete: 4 hours
+
+
+lab 09 
+Name of feature:module
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 7:30 pm
+
+Finish time: 8:30 pm
+
+Actual time needed to complete: 1 hour
